@@ -1,0 +1,7 @@
+torch
+transformers
+accelerate
+peft
+soundfile
+python-dotenv
+kokoro
